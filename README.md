@@ -7,7 +7,7 @@ This repository documents my learning journey from **basic logic gates** to **ad
 
 ## 👨‍💻 About Me
 
-I’m **Kousik Kar**, an **Electronics and Communication Engineering** student at **Jadavpur University**, passionate about **Digital Design, FPGA, and VLSI systems**.  
+I’m **Kousik Kar**, an **Electronics and Communication Engineering** student at **Jadavpur University**, 2028 and passionate about **Digital Design, FPGA, and VLSI systems and AI-ML**.  
 My goal is to build a strong foundation in **RTL design**, **hardware modeling**, and **system-level digital design** — and share my work openly to help others learn Verilog in a structured and practical way.
 
 ---
