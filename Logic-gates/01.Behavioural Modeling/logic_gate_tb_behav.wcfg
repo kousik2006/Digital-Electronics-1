@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="logic_gate_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="logic_gate_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="99.401 ns"></ZoomEndTime>
+      <Cursor1Time time="27.500 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="187"></NameColumnWidth>
+      <ValueColumnWidth column_width="124"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/logic_gate_tb/a" type="logic">
+      <obj_property name="ElementShortName">a</obj_property>
+      <obj_property name="ObjectShortName">a</obj_property>
+   </wvobject>
+   <wvobject fp_name="/logic_gate_tb/b" type="logic">
+      <obj_property name="ElementShortName">b</obj_property>
+      <obj_property name="ObjectShortName">b</obj_property>
+   </wvobject>
+   <wvobject fp_name="/logic_gate_tb/and_" type="logic">
+      <obj_property name="ElementShortName">and_</obj_property>
+      <obj_property name="ObjectShortName">and_</obj_property>
+   </wvobject>
+   <wvobject fp_name="/logic_gate_tb/or_" type="logic">
+      <obj_property name="ElementShortName">or_</obj_property>
+      <obj_property name="ObjectShortName">or_</obj_property>
+   </wvobject>
+   <wvobject fp_name="/logic_gate_tb/not_a" type="logic">
+      <obj_property name="ElementShortName">not_a</obj_property>
+      <obj_property name="ObjectShortName">not_a</obj_property>
+   </wvobject>
+   <wvobject fp_name="/logic_gate_tb/not_b" type="logic">
+      <obj_property name="ElementShortName">not_b</obj_property>
+      <obj_property name="ObjectShortName">not_b</obj_property>
+   </wvobject>
+   <wvobject fp_name="/logic_gate_tb/nand_" type="logic">
+      <obj_property name="ElementShortName">nand_</obj_property>
+      <obj_property name="ObjectShortName">nand_</obj_property>
+   </wvobject>
+   <wvobject fp_name="/logic_gate_tb/nor_" type="logic">
+      <obj_property name="ElementShortName">nor_</obj_property>
+      <obj_property name="ObjectShortName">nor_</obj_property>
+   </wvobject>
+   <wvobject fp_name="/logic_gate_tb/xor_" type="logic">
+      <obj_property name="ElementShortName">xor_</obj_property>
+      <obj_property name="ObjectShortName">xor_</obj_property>
+   </wvobject>
+   <wvobject fp_name="/logic_gate_tb/xnor_" type="logic">
+      <obj_property name="ElementShortName">xnor_</obj_property>
+      <obj_property name="ObjectShortName">xnor_</obj_property>
+   </wvobject>
+</wave_config>
